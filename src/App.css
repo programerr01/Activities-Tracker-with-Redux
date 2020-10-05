@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+
+.activity-wrapper, .add {
+  display: flex;
+  margin: 10px auto;
+  min-width: 350px;
+  max-width: 480px;
+}
+
+.activity-wrapper > *, .add > * {
+  margin: 10px 16px;
+}
