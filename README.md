@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## See the site
+[click-here](https://programerr01.github.io/Activities-Tracker-with-Redux/)
+
 ## Available Scripts
 
 In the project directory, you can run:
