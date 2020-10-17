@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Activities-Tracker-with-Redux/static/css/main.329609b1.chunk.css",
+    "main.js": "/Activities-Tracker-with-Redux/static/js/main.dd1684bf.chunk.js",
+    "main.js.map": "/Activities-Tracker-with-Redux/static/js/main.dd1684bf.chunk.js.map",
+    "runtime-main.js": "/Activities-Tracker-with-Redux/static/js/runtime-main.51b0c096.js",
+    "runtime-main.js.map": "/Activities-Tracker-with-Redux/static/js/runtime-main.51b0c096.js.map",
+    "static/js/2.afe75461.chunk.js": "/Activities-Tracker-with-Redux/static/js/2.afe75461.chunk.js",
+    "static/js/2.afe75461.chunk.js.map": "/Activities-Tracker-with-Redux/static/js/2.afe75461.chunk.js.map",
+    "index.html": "/Activities-Tracker-with-Redux/index.html",
+    "precache-manifest.e9f9a73f28cf88d0bff39a0939d8613d.js": "/Activities-Tracker-with-Redux/precache-manifest.e9f9a73f28cf88d0bff39a0939d8613d.js",
+    "service-worker.js": "/Activities-Tracker-with-Redux/service-worker.js",
+    "static/css/main.329609b1.chunk.css.map": "/Activities-Tracker-with-Redux/static/css/main.329609b1.chunk.css.map",
+    "static/js/2.afe75461.chunk.js.LICENSE.txt": "/Activities-Tracker-with-Redux/static/js/2.afe75461.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51b0c096.js",
+    "static/js/2.afe75461.chunk.js",
+    "static/css/main.329609b1.chunk.css",
+    "static/js/main.dd1684bf.chunk.js"
+  ]
+}
